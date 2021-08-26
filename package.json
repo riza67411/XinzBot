@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "aqulzz",
+  "author": "riza",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.1",
     "@vitalets/google-translate-api": "^7.0.0",
